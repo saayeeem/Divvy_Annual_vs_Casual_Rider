@@ -2,10 +2,9 @@
 title: 'Cyclistic Company: A Case Study between Annual Member vs. Casual Rider 2021'
 author: "Mohammad Sayem Chowdhury"
 date: "2/01/2022"
-output:
-  pdf_document: default
-  html_document: default
+
 ---
+https://saayeeem.github.io/Divvy_Annual_vs_Casual_Rider/
 ## Introduction 
 
 Welcome to the Cyclistic bike-share analysis case study! In this case study, I am performing many real-world tasks of a junior data analyst. I am working for a fictional company, Cyclistic, and meet different characters and team members. In order to answer the key business questions, I am following the steps of the data analysis process: **ask**, **prepare**, **process**, **analyze**, **share**, and **act**. 
